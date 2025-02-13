@@ -3,7 +3,7 @@ document.getElementById("valentineButton").addEventListener("click", function() 
 });
 
 document.getElementById("yesButton").addEventListener("click", function() {
-    alert("Yay! you're awesome bujjiii! ❤️");
+    alert("Yay! you're awesome ❤️");
 });
 
 // Fake moving "No" button
